@@ -4,9 +4,6 @@
 
 ### 35 岁转行计算机 · 正在路上的开发者
 
-[![GitHub followers](https://img.shields.io/github/followers/tpTwof?style=for-the-badge&logo=github&labelColor=181717&color=4c8eda)](https://github.com/tpTwof)
-[![Profile views](https://komarev.com/ghpvc/?username=tpTwof&style=for-the-badge&color=4c8eda)](https://github.com/tpTwof)
-
 ---
 
 </div>
@@ -72,23 +69,6 @@
     </td>
   </tr>
 </table>
-
-其他项目：
-- 🌐 [tpTwof.github.io](https://github.com/tpTwof/tpTwof.github.io) —— 我的个人主页（GitHub Pages）
-- 💻 [vibe-coding](https://github.com/tpTwof/vibe-coding) —— C 语言练习
-- 🧪 [SST](https://github.com/tpTwof/SST) —— Some strange things
-
----
-
-## 📊 GitHub 统计
-
-<div align="center">
-
-![tpTwof's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpTwof&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpTwof&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 

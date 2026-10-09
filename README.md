@@ -59,14 +59,6 @@
       </p>
       <p align="center"><a href="https://github.com/tpTwof/YOLOv8-seg">🔗 查看项目</a></p>
     </td>
-    <td width="50%">
-      <h3 align="center">👗 AI 穿搭助手（Vue 3）</h3>
-      <p align="center">
-        基于 Vue 3 的 AI 穿搭助手应用。<br>
-        管理你的衣橱，获取智能穿搭推荐。
-      </p>
-      <p align="center"><a href="https://github.com/tpTwof/homework-wardrobe-Frontend">🔗 查看项目</a></p>
-    </td>
   </tr>
 </table>
 

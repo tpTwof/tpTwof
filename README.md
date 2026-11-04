@@ -1,11 +1,8 @@
 <div align="center">
 
-# Hi，我是 tpTwo（tpTwof）
+# Hi，我是 tpTwof
 
 ### 「种一棵树最好的时间是十年前，其次是现在。」
-
-[![GitHub followers](https://img.shields.io/github/followers/tpTwof?style=for-the-badge&logo=github&labelColor=181717&color=4c8eda)](https://github.com/tpTwof)
-[![Profile views](https://komarev.com/ghpvc/?username=tpTwof&style=for-the-badge&color=4c8eda)](https://github.com/tpTwof)
 
 ---
 

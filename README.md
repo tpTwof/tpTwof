@@ -71,7 +71,7 @@
 ## Contact Me
 
 -  GitHub：[tpTwof](https://github.com/tpTwof)
--  个人主页：[tpTwo](https://tpTwo.top)
+-  个人主页：[tpTwof](https://tptwof.top)
 -  邮箱：**tptwo06@gmail**
 
 ---
